@@ -31,7 +31,9 @@
 
 ---
 Датасеты, используемые в проекте:
-* [train.csv](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview 'train.zip')
+* [train.csv](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview)
+* [holiday_data.csv](https://lms-cdn.skillfactory.ru/assets/courseware/v1/33bd8d5f6f2ba8d00e2ce66ed0a9f510/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/holiday_data.csv)
 
 
 Ссылка на ноутбук:
+* [Project-5.ipynb](https://github.com/Blooodniy/PROJECT-5/blob/master/Project-5.ipynb)
