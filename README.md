@@ -31,8 +31,10 @@
 
 ---
 Датасеты, используемые в проекте:
-* [train.csv](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview)
-* [holiday_data.csv](https://lms-cdn.skillfactory.ru/assets/courseware/v1/33bd8d5f6f2ba8d00e2ce66ed0a9f510/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/holiday_data.csv)
+* [Тренировочный датасет с информацикй о поездках на такси в Нью-Йорке за 2016 год](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview 'train.csv')
+* [файл с праздничными датами](https://lms-cdn.skillfactory.ru/assets/courseware/v1/33bd8d5f6f2ba8d00e2ce66ed0a9f510/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/holiday_data.csv 'holiday_data.csv')
+* [Файл с данными из OSRM для поездок из тренировочной таблицы](https://drive.google.com/file/d/1ecWjor7Tn3HP7LEAm5a0B_wrIfdcVGwR/view?usp=sharing 'osrm_data_train.csv')
+* [Датасет содержащий информацию о погодных условиях в Нью-Йорке в 2016 году](https://lms-cdn.skillfactory.ru/assets/courseware/v1/0f6abf84673975634c33b0689851e8cc/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/weather_data.zip 'weather_data.csv')
 
 
 Ссылка на ноутбук:
